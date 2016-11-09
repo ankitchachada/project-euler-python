@@ -1,4 +1,4 @@
 language: python
 python:
   - "3.5"
-script: python sol1.py & python sol12.py
+script: python sol1.py & python sol2.py
