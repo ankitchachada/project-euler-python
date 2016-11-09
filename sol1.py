@@ -1,3 +1,4 @@
+print("Solution 1")
 def find_sum():
     s = 0
     for i in range(1,1000): 

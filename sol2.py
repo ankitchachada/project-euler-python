@@ -1,3 +1,4 @@
+print("Solution 2")
 def sol2(n):
     a,b = 1,1
     c = 0
